@@ -14,8 +14,15 @@ Lastfm Method: constructor (#Lastfm: constructor)
 
 ### Arguments:
 
+1. options - (*Object*) An object containing the Lastfm instance's options.
 
 ### options:
+
+* (*String*)  username    - the Last.fm username to fetch the recent tracks of.
+* (*String*)  result      - the place where you want to put the badge
+* (*String*)  badgeid     - the widget's ID 
+* (*String*)  badgeclass  - the badge's class
+* (*Integer*) amount      - the number of tracks to fetch.
 
 
 ### Returns
