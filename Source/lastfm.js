@@ -1,3 +1,20 @@
+/*
+---
+description: This plugin will get the recent tracks from a last.fm account and it produces structured HTML with in-build CSS classes for styling.
+
+authors:
+- Adrian Statescu (http://thinkphp.ro)
+
+license:
+- MIT-style license
+
+requires:
+ core/1.4.1: '*'
+
+provides: Lastfm
+...
+*/
+
 var Lastfm = new Class({
 
                /*Implements*/
