@@ -39,7 +39,8 @@ An `Lastfm` instance.
      onRequest(); 
 
 #### Arguments
-* (*void*);
+
+* (*void*) no arguments
 
 ### Complete
 
@@ -51,7 +52,7 @@ An `Lastfm` instance.
 
 #### Arguments
 
-* (*object*) - the response from the service Last.fm API using Yahoo Query Language(YQL).
+* (*object*) data - the response from the service Last.fm API using Yahoo Query Language(YQL).
 
 
 Element Method: lastfm (#Element: lastfm)
