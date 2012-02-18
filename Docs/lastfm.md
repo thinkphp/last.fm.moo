@@ -19,7 +19,7 @@ Lastfm Method: constructor (#Lastfm: constructor)
 ### options:
 
 * (*String*)  username    - the Last.fm username to fetch the recent tracks of.
-* (*String*)  result      - the id of the element where you'd want to put the badge.
+* (*String*)  where       - the id of the element where you'd want to put the badge.
 * (*String*)  badgeid     - the id of the widget.
 * (*String*)  badgeclass  - the css class of the widget.
 * (*Integer*) amount      - the number of tracks to fetch.
