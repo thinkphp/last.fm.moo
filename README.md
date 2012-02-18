@@ -16,9 +16,20 @@ First you must to include the JS files in the head of your HTML document.
         <script type="text/javascript" src="lastfm.js"></script>
 
 
-
-       #HTML
+        #HTML
+        <div class="yui-u first">
+          <div id="result"></div>
+        </div>
+        <div class="yui-u">
+          <div id="result2"></div>
+        </div>
 
 Then you can apply the method.
 
-       #JS
+        #JS
+        <script type="text/javascript">
+           window.addEvent('domready', function(){
+                 $('result').lastfm({username: 'aline_e_b'});
+                 $('result2').lastfm({username: 'thinkphp'});
+           }); 
+        </script>
