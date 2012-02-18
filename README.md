@@ -15,6 +15,7 @@ First you must to include the JS files in the head of your HTML document.
         <script type="text/javascript">google.load("mootools", "1.4.1");</script>
         <script type="text/javascript" src="lastfm.js"></script>
 
+Define some DIVs to inject the badge
 
         #HTML
         <div class="yui-u first">
