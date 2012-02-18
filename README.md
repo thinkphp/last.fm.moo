@@ -34,3 +34,7 @@ Then you can apply the method.
                  $('result2').lastfm({username: 'thinkphp'});
            }); 
         </script>
+
+Example #1: http://thinkphp.ro/apps/lastfm.js/mootools/getJSON/
+
+Example #2: http://thinkphp.ro/apps/lastfm.js/mootools/jsonp/
