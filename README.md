@@ -1,7 +1,9 @@
 Lastfm
 ======
 
-![Screenshot]()
+This plugin will get the recent tracks from a last.fm account and it produces structured HTML with in-build CSS classes for styling.
+
+![Screenshot](http://farm8.staticflickr.com/7186/6895754387_b8286958b1_z.jpg)
 
 How to use
 ----------
