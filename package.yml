@@ -1,7 +1,7 @@
-name: 
+name: lastfm
 author: thinkphp
 current: v1.0
 category: utilities
-tags: []
-docs: 
-demo: 
+tags: [badge, widget, social, music, last.fm, ajax, request]
+docs: https://github.com/thinkphp/last.fm.moo/blob/master/Docs/lastfm.md
+demo: http://thinkphp.ro/apps/js-hacks/lastfm.js/mootools/getJSON/
