@@ -29,6 +29,31 @@ Lastfm Method: constructor (#Lastfm: constructor)
 
 An `Lastfm` instance.
 
+### Events
+
+### Request
+
+* (*Function*) - a function callback that is fired when the request is sent to the service last.fm API using YQL.
+
+#### Signature
+     onRequest(); 
+
+#### Arguments
+* (*void*);
+
+### Complete
+
+* (*Function*) - a function callback that is executed when the request is completed.
+
+#### Signature
+
+     onComplete(data); 
+
+#### Arguments
+
+* (*object*) - the response from the service Last.fm API using Yahoo Query Language(YQL).
+
+
 Element Method: lastfm (#Element: lastfm)
 -------------------------------------------------
 
