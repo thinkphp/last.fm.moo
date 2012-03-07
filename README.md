@@ -35,6 +35,8 @@ Then you can apply the method.
            }); 
         </script>
 
-Example #1: http://thinkphp.ro/apps/lastfm.js/mootools/getJSON/
+Example #1: http://thinkphp.ro/apps/lastfm/mootools/getJSON/
 
-Example #2: http://thinkphp.ro/apps/lastfm.js/mootools/jsonp/
+Example #2: http://thinkphp.ro/apps/lastfm/mootools/jsonp/
+
+Example #3: http://thinkphp.ro/apps/lastfm/mootools/jsonp2/
