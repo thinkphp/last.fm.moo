@@ -4,4 +4,4 @@ current: v1.0
 category: utilities
 tags: [badge, widget, social, music, last.fm, ajax, request]
 docs: https://github.com/thinkphp/last.fm.moo/blob/master/Docs/lastfm.md
-demo: http://thinkphp.ro/apps/lastfm/mootools/jsonp/
+demo: http://thinkphp.ro/apps/lastfm/mootools/getJSON/
